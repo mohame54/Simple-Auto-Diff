@@ -1,8 +1,10 @@
 # Simple-Auto-Diff
 **Simple Scaler Automatic Differentiation engine written in C++**
 
+## Hyberpolic Sinh function
 ![Hyberpolic Sinh function](https://github.com/mohame54/Simple-Auto-Diff/blob/main/imgs/sinh.png)
 
+##[Quadratic function
 ![Quadratic function](https://github.com/mohame54/Simple-Auto-Diff/blob/main/imgs/quad.png)
 
 ## Table of Contents
