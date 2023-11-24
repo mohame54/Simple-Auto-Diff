@@ -1,9 +1,9 @@
 # Simple-Auto-Diff
 **Simple Scaler Automatic Differentiation engine written in C++**
 
-![](https://github.com/mohame54/Simple-Auto-Diff/blob/main/imgs/sinh.png)
+![Hyberpolic Sinh function](https://github.com/mohame54/Simple-Auto-Diff/blob/main/imgs/sinh.png)
 
-![](https://github.com/mohame54/Simple-Auto-Diff/blob/main/imgs/quad.png)
+![Quadratic function](https://github.com/mohame54/Simple-Auto-Diff/blob/main/imgs/quad.png)
 
 ## Table of Contents
 
@@ -42,12 +42,6 @@ You can implement any function and take it's derivatives to it's inputs also you
 - You should also pass the inputs to your function by reference.
 - You should look into the provided functions any function outside the provided will not work. 
 - Once you create a graph and you don't want to use it anymore you should use diff::delete_graph.
-
-
-
-Quadratic Function:
-
-The hyperbolic sine function is defined as Sinh: 
 
 ```cpp
 #include <iostream>
