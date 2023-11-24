@@ -1,9 +1,9 @@
 # Simple-Auto-Diff
 **Simple Scaler Automatic Differentiation engine written in C++**
 
-![]()
+![](https://github.com/mohame54/Simple-Auto-Diff/blob/main/imgs/sinh.png)
 
-![]()
+![](https://github.com/mohame54/Simple-Auto-Diff/blob/main/imgs/quad.png)
 
 ## Table of Contents
 
